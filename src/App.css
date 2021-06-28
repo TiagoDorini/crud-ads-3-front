@@ -1,0 +1,8 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+:root {
+    --primary-color: #1fb6d8;
+    --secondary-color: #F0DA00;
+    --tertiary-color: #dd1b66;
+    --primary-shade-color: #0085A3;
+    --secondary-shade-color: #A39508;
+}

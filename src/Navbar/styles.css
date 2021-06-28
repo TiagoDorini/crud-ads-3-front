@@ -1,0 +1,12 @@
+.bg-color-custom {
+    background-color: var(--primary-color);
+}
+
+.link-hover-custom:hover {
+    color: white !important;
+    background-color: var(--primary-color) !important;
+}
+
+.navbar {
+    box-shadow: 0px 1px 10px #8a8a8a;
+}
